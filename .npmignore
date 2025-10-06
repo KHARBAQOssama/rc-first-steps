@@ -1,0 +1,10 @@
+src/
+node_modules/
+.git/
+.gitignore
+tsconfig.json
+rollup.config.js
+*.test.ts
+*.test.tsx
+.eslintrc
+.prettierrc
