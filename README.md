@@ -2,7 +2,7 @@
 
 > A beautiful, lightweight, and fully customizable onboarding tour library for React and Next.js applications.
 
-![Demo]()
+![Demo](https://github.com/KHARBAQOssama/rc-first-steps/blob/main/demo.gif?raw=true)
 
 Create stunning product tours and user guides with zero configuration. Perfect for onboarding new users, showcasing features, or providing guided tutorials.
 
