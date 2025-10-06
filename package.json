@@ -1,6 +1,6 @@
 {
   "name": "rc-first-steps",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A beautiful, customizable onboarding library for React and Next.js applications",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
